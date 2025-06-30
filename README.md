@@ -23,8 +23,6 @@ Allows users to **add**, **view**, and **store contacts** in a `.csv` file for e
 ---
 
 ## 📦 How to Run
-
-### 1. Compile the Code
 ```bash
 gcc contacts.c -o contactlog
 ./contactlog.exe
